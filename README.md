@@ -1,7 +1,7 @@
 ### Welcome thanks for dropping by 👋
 ### Lead Blockchain developer for the BlakeStream network since 2013 
 ### BlakeStream merged mine pool operator since 2014
-### Lead Designer and games developer for BlakeZone games *in active redevelopment from Unity3D to GoDot
+### Lead designer and developer for BlakeZone games *in active redevelopment from Unity3D to GoDot
 ### Core roles: Architect, Analyst, Maintainer, Games Design/Production, DevOps 
 ### if you like or find any of the repositories I have worked on useful hit the star button thanks 😄 
 ### improvements are most welcome feel free to open a PR 👯
