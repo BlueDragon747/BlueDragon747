@@ -1,5 +1,6 @@
 ### Welcome thanks for dropping by 👋
-### if you like or find any of the repo's I have worked on useful hit the star button thanks 😄 
+### if you like or find any of the repositories I have worked on useful hit the star button thanks 😄 
+### improvements are most welcome feel free to open a PR 👯
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BlueDragon747&count_private=true&theme=tokyonight&showicons=true)]()
