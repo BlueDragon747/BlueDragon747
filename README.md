@@ -1,5 +1,6 @@
 ### Welcome thanks for dropping by 👋
-### if you like or find any repo useful hit the star button thanks 😄 
+### if you like or find any of the repo's I have worked on useful hit the star button thanks 😄 
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BlueDragon747&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDragon747&langs_count=5&theme=tokyonight)]()
