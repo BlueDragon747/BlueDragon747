@@ -1,4 +1,6 @@
 ### Welcome thanks for dropping by 👋
+### Lead Blockchain developer for the BlakeStream network since 2013 and merged mine pool operator since 2014
+### Core roles: Architect, Analyst, Maintainer, Games Design/Production, DevOps 
 ### if you like or find any of the repositories I have worked on useful hit the star button thanks 😄 
 ### improvements are most welcome feel free to open a PR 👯
 
