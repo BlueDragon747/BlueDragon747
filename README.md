@@ -7,9 +7,10 @@
 ### improvements are most welcome feel free to open a PR 👯
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BlueDragon747&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true)]()
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BlueDragon747?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDragon747&langs_count=5&theme=tokyonight)]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluedragon747&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=BlueDragon747&color=blue&style=flat-square&label=visitors" align="right" />
 <!--
