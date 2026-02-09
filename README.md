@@ -9,7 +9,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BlueDragon747?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <br/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDragon747&langs_count=5&theme=tokyonight)]()
 
 <img src="https://komarev.com/ghpvc/?username=BlueDragon747&color=blue&style=flat-square&label=visitors" align="right" />
 <!--
